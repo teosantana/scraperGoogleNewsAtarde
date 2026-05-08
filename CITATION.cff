@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se usar este software, cite conforme abaixo."
+authors:
+  - family-names: "Rios Brito"
+    given-names: "Hugo"
+title: "Crawler de Noticias de Municipios Baianos"
+version: 0.1.4
+date-released: 2025-04-24
+url: "https://github.com/hugoriosbrito/Crawler-Noticias-de-Municipios-Baianos"
